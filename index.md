@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Hydroquo+
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Hydroquo is a technology company which aims to solve global challenges in water security through innovation application of modern technology
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Solving global water challenges with innovative technology
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Hydroquo's mission is to ensure water security for future generations by developing, deploying and maintaining advanced AI-driven, IoT-based monitoring systems.
