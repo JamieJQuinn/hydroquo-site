@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'hydroquo-site'
 exclude: ['README.md']
 permalink: pretty
 title: 'Hydroquo+'
